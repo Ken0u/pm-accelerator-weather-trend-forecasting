@@ -152,6 +152,7 @@ python analysis.py
 or
 ```bash
 pip install -r requirements.txt
+python analysis.py
 ```
 
 ## Deliverables
