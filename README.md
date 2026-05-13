@@ -149,6 +149,10 @@ Linear Regression performed best overall due to the strong linear relationships 
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy xgboost
 python analysis.py
 ```
+or
+```bash
+pip install -r requirements.txt
+```
 
 ## Deliverables
 - `report.txt` — Comprehensive text report with all analyses, evaluations, and insights
