@@ -32,7 +32,7 @@ import xgboost as xgb
 # LOAD DATA
 # ----------------------------
 print("Loading data...")
-df = pd.read_csv(r'C:\Users\enkra\Documents\Projects\pm accelerator weather trend forecasting\GlobalWeatherRepository.csv')
+df = pd.read_csv("GlobalWeatherRepository.csv")
 print(f"Shape: {df.shape}")
 
 # Rename for convenience
